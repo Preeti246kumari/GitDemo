@@ -7,6 +7,10 @@ from TestData.HomePageData import HomePageData
 from pageObjects.HomePage import HomePage
 from utilities.BaseClass import BaseClass
 
+print("hiiiiiiiii")
+print("how are you")
+print("all good")
+
 
 class TestHomePage(BaseClass):
 
